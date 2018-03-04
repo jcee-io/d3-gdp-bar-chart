@@ -1,0 +1,17 @@
+body {
+	background: lightgrey;
+}
+svg {
+	margin: 10vh auto;
+	display: block;
+	background: whitesmoke;
+}
+
+.tooltip {
+	opacity: 0;
+	position: absolute;
+	pointer-events: none;
+	background: lightgrey;
+	padding: 20px;
+	border: black solid 3px;
+}
